@@ -13,7 +13,7 @@ The data were prepared by eliminating duplicates and focusing on Item Weight, It
 This first image showcases the correlations between the numeric variables.
 ![image](https://user-images.githubusercontent.com/113748627/197235260-0b79b8f4-9f22-402d-9a50-14910e556440.png)
 
-This next image showcases the distribution of the Item Weights, which have a high number near 12 ounces.
+This next image showcases the distribution of the Item Weights. A high number of Item Weights are near 12 ounces.
 ![image](https://user-images.githubusercontent.com/113748627/197235403-b45cc51e-cf7c-4977-bdf5-857b5d29df2d.png)
 
 ## Model
